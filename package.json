@@ -1,0 +1,29 @@
+{
+  "name": "tcc-broker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch src/index.ts",
+    "build": "tsc --build",
+    "start": "NODE_ENV=production node build/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@rocketseat/eslint-config": "^2.1.0",
+    "@types/lodash": "^4.14.199",
+    "@types/node": "^20.8.2",
+    "tsx": "^3.13.0",
+    "typescript": "^5.2.2"
+  },
+  "dependencies": {
+    "@onesignal/node-onesignal": "^2.0.1-beta2",
+    "axios": "^1.5.1",
+    "dotenv": "^16.3.1",
+    "lodash": "^4.17.21",
+    "redis": "^4.6.10",
+    "socket.io": "^4.7.2"
+  }
+}
