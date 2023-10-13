@@ -1,4 +1,4 @@
-![Minhau logo](./images/logo-small.png)
+![Minhau logo](/../../../../jonatanbortolon/minhau/blob/main/images/logo-small.png)
 
 # Minhau - Websocket Server
 
@@ -18,10 +18,10 @@ Feito utilizando tecnologias Javascript como [Next.js](https://nextjs.org/), [Pr
   - [Sentry](https://sentry.io)
 
 ## Diagrama de casos de uso
-![Diagrama de casos de uso](https://github.com/jonatanbortolon/minhau/diagrams/use-case-diagram.png)
+![Diagrama de casos de uso](/../../../../jonatanbortolon/minhau/blob/main/diagrams/use-case-diagram.png)
 
 ## Diagrama de banco de dados
-![Diagrama de banco de dados](https://github.com/jonatanbortolon/minhau/diagrams/entity-relationship-diagram.png)
+![Diagrama de banco de dados](/../../../../jonatanbortolon/minhau/blob/main/diagrams/entity-relationship-diagram.png)
 
 ## Modificando
 
