@@ -16,6 +16,7 @@ Feito utilizando tecnologias Javascript como [Next.js](https://nextjs.org/), [Pr
   - [NextAuth.js](https://next-auth.js.org/)
   - [Socket.io](https://socket.io/)
   - [Sentry](https://sentry.io)
+  - [Render](https://render.com/)
 
 ## Diagrama de casos de uso
 ![Diagrama de casos de uso](/../../../../jonatanbortolon/minhau/blob/main/diagrams/use-case-diagram.png)
