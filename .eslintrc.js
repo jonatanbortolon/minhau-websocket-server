@@ -1,3 +1,3 @@
 module.exports = {
-  "extends": "@rocketseat/eslint-config/node"
+  extends: '@rocketseat/eslint-config/node',
 }
